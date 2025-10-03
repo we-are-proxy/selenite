@@ -2,6 +2,7 @@
   "name": "Bigfoot Games",
   "version": "1.0.0",
   "scripts": {
+    "build": "echo boo",
     "start": "node index.js"
   },
   "dependencies": {
